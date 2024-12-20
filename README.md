@@ -34,7 +34,7 @@ Analyze Existing Apps:
         
 ## App Idea 
 I would like to build an app called TouchGrass that helps users limit their screen time usage by having an accountability partner. I would use the ScreenTime API to see that if a user has passed their screen time goals then their partner can nudge them. The accountability partner and primary are working together to hit screen time weekly or monthly goals together. 
-    User Stories:
+User Stories:
      - As a user, I would like to log into my app to store my ScreenTime data
      - As a user, I would like to match with another user over iMessage to be accountability partners
      - As a user, I would like to set goals based on my screen time
